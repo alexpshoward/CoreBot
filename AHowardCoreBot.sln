@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AHowardCoreBot", "CoreBotWithTests1\CoreBotWithTests1\AHowardCoreBot.csproj", "{D00044E5-9FBF-4D7B-AE0C-144E28978369}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreBotWithTests1.Tests", "CoreBotWithTests1\CoreBotWithTests1.Tests\CoreBotWithTests1.Tests.csproj", "{6731E9E0-BCB6-4DB6-96AA-BE965967167C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D00044E5-9FBF-4D7B-AE0C-144E28978369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D00044E5-9FBF-4D7B-AE0C-144E28978369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D00044E5-9FBF-4D7B-AE0C-144E28978369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D00044E5-9FBF-4D7B-AE0C-144E28978369}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6731E9E0-BCB6-4DB6-96AA-BE965967167C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6731E9E0-BCB6-4DB6-96AA-BE965967167C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6731E9E0-BCB6-4DB6-96AA-BE965967167C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6731E9E0-BCB6-4DB6-96AA-BE965967167C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C3941F5-DDA0-4D67-93CD-488723264B0C}
+	EndGlobalSection
+EndGlobal

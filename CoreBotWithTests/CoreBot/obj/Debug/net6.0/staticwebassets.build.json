@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "w+jDZlu1r+LBLZoWytUSHewmfb2dDuQBUYsbSlM+RCk=",
+  "Source": "AHowardCoreBot",
+  "BasePath": "_content/AHowardCoreBot",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AHowardCoreBot\\wwwroot",
+      "Source": "AHowardCoreBot",
+      "ContentRoot": "C:\\Users\\Graduate\\source\\repos\\CoreBotWithTests1\\CoreBotWithTests1\\CoreBotWithTests1\\wwwroot\\",
+      "BasePath": "_content/AHowardCoreBot",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Graduate\\source\\repos\\CoreBotWithTests1\\CoreBotWithTests1\\CoreBotWithTests1\\wwwroot\\default.htm",
+      "SourceId": "AHowardCoreBot",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Graduate\\source\\repos\\CoreBotWithTests1\\CoreBotWithTests1\\CoreBotWithTests1\\wwwroot\\",
+      "BasePath": "_content/AHowardCoreBot",
+      "RelativePath": "default.htm",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\default.htm"
+    }
+  ]
+}
